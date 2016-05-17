@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<Store>
+<Instrument>
+    <instname>Drum Kit</instname>
+    <channel>9</channel>
+	<MidiSound>
+		<soundname>Bass Drum</soundname>
+	    <note>35</note>
+		<velocity>120</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Snare</soundname>
+	    <note>38</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Closed Hi-Hat</soundname>
+	    <note>42</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Open Hi-Hat</soundname>
+		<note>46</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Crash Cymbal</soundname>
+		<note>49</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Hand Clap</soundname>
+		<note>39</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>High Tom</soundname>
+		<note>50</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Hi Bongo</soundname>
+		<note>60</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Maracas</soundname>
+		<note>70</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Whistle</soundname>
+		<note>72</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Low Conga</soundname>
+		<note>64</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Cowbell</soundname>
+		<note>56</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Vibraslap</soundname>
+		<note>58</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Low-mid Tom</soundname>
+		<note>47</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>High Agogo</soundname>
+		<note>67</note>
+		<velocity>100</velocity>
+	</MidiSound>
+	<MidiSound>
+		<soundname>Open Hi Conga</soundname>
+		<note>63</note>
+		<velocity>100</velocity>
+	</MidiSound>
+</Instrument>
+<Instrument>
+    <instname>Fingered Bass</instname>
+    <channel>2</channel>
+    <MidiSound>
+        <soundname>C1</soundname>
+        <note>24</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>D1</soundname>
+        <note>26</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>E1</soundname>
+        <note>28</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>F1</soundname>
+        <note>29</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>G1</soundname>
+        <note>31</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>A1</soundname>
+        <note>33</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>B1</soundname>
+        <note>35</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>C2</soundname>
+        <note>36</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>D2</soundname>
+        <note>38</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>E2</soundname>
+        <note>40</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>F2</soundname>
+        <note>41</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>G2</soundname>
+        <note>43</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>A2</soundname>
+        <note>45</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>B2</soundname>
+        <note>47</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>C3</soundname>
+        <note>48</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>D3</soundname>
+        <note>50</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>E3</soundname>
+        <note>52</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>F3</soundname>
+        <note>53</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>G3</soundname>
+        <note>55</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>A3</soundname>
+        <note>57</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>B3</soundname>
+        <note>59</note>
+        <velocity>100</velocity>
+    </MidiSound>
+    <MidiSound>
+        <soundname>C4</soundname>
+        <note>60</note>
+        <velocity>100</velocity>
+    </MidiSound>
+</Instrument>
+</Store>
